@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Meer Abdullah Jawed 👋</h1>
+<h1 align="center">Hi, I'm Meer Abdullah Jawed </h1>
 <h3 align="center">Data Engineer | Data Analyst | ETL & BI Specialist</h3>
 
 <p align="center">
@@ -9,19 +9,19 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
 I'm a Data Engineer & Data Analyst with 2+ years of experience designing automated **ETL/ELT pipelines**, integrating multi-source data through **REST APIs**, and building **SQL-driven analytics & BI solutions**. I work at the intersection of data infrastructure and business intelligence — turning messy, multi-source data (APIs, CSVs, Google Sheets) into clean, reliable pipelines and dashboards that drive real decisions.
 
-- 🔧 Currently building automated BPO campaign analytics pipelines (Zoom Phone API + Primo Dialer API → BigQuery/MySQL → Power BI)
-- 📊 Experienced in KPI reporting, funnel/cohort/gap analysis, and dashboard development
-- ☁️ Working knowledge of Azure Data Factory (ADF) & Azure Data Lake Storage (ADLS)
-- 🌱 Always refining pipeline reliability, data quality, and reporting automation
-- 💬 Ask me about ETL design, SQL data modeling, or Power BI troubleshooting
+-  Currently building automated BPO campaign analytics pipelines (Zoom Phone API + Primo Dialer API → BigQuery/MySQL → Power BI)
+-  Experienced in KPI reporting, funnel/cohort/gap analysis, and dashboard development
+-  Working knowledge of Azure Data Factory (ADF) & Azure Data Lake Storage (ADLS)
+-  Always refining pipeline reliability, data quality, and reporting automation
+-  Ask me about ETL design, SQL data modeling, or Power BI troubleshooting
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Processing**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,30 +52,30 @@ I'm a Data Engineer & Data Analyst with 2+ years of experience designing automat
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📞 BPO Campaign Analytics Pipeline</h4>
+      <h4>BPO Campaign Analytics Pipeline</h4>
       <p>End-to-end ETL/ELT pipeline ingesting multi-source BPO campaign data via <b>Zoom Phone API</b> and <b>Primo Dialer API</b>. Automates hourly/daily/monthly agent, team, and tier-wise performance reporting into BigQuery, MySQL, and Power BI.</p>
       <p><b>Impact:</b> +30% operational efficiency, -45% pipeline downtime</p>
       <p><i>Python · Pandas · SQL · BigQuery · Google Sheets API · gspread</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏦 European Banking & Monetary Analysis Platform</h4>
+      <h4> European Banking & Monetary Analysis Platform</h4>
       <p>Pulls live ECB API data through a Python ETL pipeline into a MySQL star-schema database, visualized in Power BI to track monetary policy, inflation, money supply, and banking risk metrics.</p>
       <p><i>Python · MySQL (Star Schema) · Power BI · REST APIs</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧾 NexusPOS ETL Pipeline</h4>
+      <h4> NexusPOS ETL Pipeline</h4>
       <p>ETL pipeline migrating Google Sheets and CSV data into a local SQL Server Express instance, using a daily sync strategy with deduplication by timestamp key.</p>
       <p><i>Python · SQL Server Express · Google Sheets</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌦️ Climate Data Pipeline</h4>
+      <h4> Climate Data Pipeline</h4>
       <p>Automated ETL pipeline using REST APIs, Apache Airflow, and Docker for continuous ingestion, transformation, and orchestration.</p>
       <p><b>Impact:</b> -30% data processing latency</p>
       <p><i>Python · Apache Airflow · Docker · REST APIs</i></p>
@@ -83,12 +83,12 @@ I'm a Data Engineer & Data Analyst with 2+ years of experience designing automat
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 RedLine AutoCal Performance Dashboard</h4>
+      <h4> RedLine AutoCal Performance Dashboard</h4>
       <p>Interactive dashboard analyzing 125 records for an automotive ADAS calibration business — revenue, payment status, calibration types, and vehicle brands, built with Power BI-style aesthetics.</p>
       <p><i>Power BI · Chart.js</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 HR Recruit Ease</h4>
+      <h4> HR Recruit Ease</h4>
       <p>AI-powered candidate screening system analyzing video interviews to support automated recruitment workflows.</p>
       <p><b>Impact:</b> +40% screening efficiency</p>
       <p><i>Python · Computer Vision · Feature Engineering</i></p>
@@ -98,7 +98,7 @@ I'm a Data Engineer & Data Analyst with 2+ years of experience designing automat
 
 ---
 
-### 💼 Experience Highlights
+###  Experience Highlights
 
 - **Assistant Manager, TGT-Nexus** — Designed BPO campaign ETL/ELT pipelines; automated call-log ingestion; cut manual data prep and pipeline downtime.
 - **Data Associate, Simplified Dashboard** — Built KPI dashboards (CAC, ROAS, conversion, revenue); funnel/cohort/gap analysis driving double-digit conversion and retention gains.
@@ -106,7 +106,7 @@ I'm a Data Engineer & Data Analyst with 2+ years of experience designing automat
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -119,15 +119,15 @@ I'm a Data Engineer & Data Analyst with 2+ years of experience designing automat
 
 ---
 
-### 🎓 Education & Certifications
+###  Education & Certifications
 
-- 🎓 **B.S. Computer Science** — Iqra University, Karachi
-- 📜 Programming in Python — Meta
-- 📜 Introduction to Data Analytics — IBM
-- 📜 Foundations: Data, Data, Everywhere — Google
+-  **B.S. Computer Science** — Iqra University, Karachi
+-  Programming in Python — Meta
+-  Introduction to Data Analytics — IBM
+-  Foundations: Data, Data, Everywhere — Google
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ask2meer&style=flat-square&color=blue" alt="profile views" />
 </p>
